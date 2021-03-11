@@ -1,0 +1,16 @@
+Milan Arif
+
+.gitignore:
+Vad som ska ingå i .gitignore kan bero på IDE men några är:
+1. out/
+2. .idea/
+3. *.iml
+
+Applikationsserver:
+En applikationserver är en server som kör kod för att implementera logik på servern till
+skillnad från en webserver som leverarar statiska resurser. Applikationsservern behövs för att hosta kod som ska köras.
+
+IDE:
+ -	Kostnad kan vara en faktor när man väljer IDE då vissa kan vara rätt dyra.
+ -	Tillgängliga plugins kan också avgöra om man arbetar med särskilda moment.
+ -	Stöd för olika operativsystem då jag arbetar i både MacOS och Windows.

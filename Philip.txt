@@ -1,0 +1,25 @@
+
+Vilka filer bör finnas i .gitignore?
+
+Beror på IDE, om jag utgår från NetBeans så skulle de kunna vara:
+build
+dist
+nbproject
+
+
+Vad är en applikationsserver och varför behövs den?
+
+Applikationsserver är en server som har affärslogik till appliktaionsprogram.
+Appen körs på servern och skickas ut till användaren och stödjer dymamisk användning.
+
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
+
+Kostnad, plugins, kompatibilitet, genvägar, macros
+
+
+
+
+
+
